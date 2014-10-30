@@ -1,0 +1,739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fl",
+				"fl-l	float: left;"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"css",
+				"hasClass"
+			],
+			[
+				"ti",
+				"ti--	text-indent: -9999px;"
+			],
+			[
+				"m",
+				"mt-a	margin-top: auto;"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"alert",
+				"alert-success"
+			],
+			[
+				"tah",
+				"thatChild"
+			],
+			[
+				"ste",
+				"stepImageText"
+			],
+			[
+				"de",
+				"deviceGroup"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"flo",
+				"flow-name"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"text",
+				"textAreaTxt"
+			],
+			[
+				"campa",
+				"campaigns-view"
+			],
+			[
+				"bgs",
+				"bgsz-cv	background-size: cover;"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "simple-todos.js",
+			"settings":
+			{
+				"buffer_size": 472,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<head>\n  <title>Todo List</title>\n</head>\n\n<body>\n  <div class=\"container\">\n    <header>\n      <h1>Todo List</h1>\n    </header>\n\n    <ul>\n      {{#each tasks}}\n        {{>}}\n    </ul>\n  </div>\n</body>",
+			"file": "simple-todos.html",
+			"file_size": 225,
+			"file_write_time": 130591312140000000,
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n	// Copy any modified settings to `User/TernJS.sublime-settings`\n	// otherwise modifications will not survive updates.\n\n	// List of default TernJS definition libraries that should be\n	// loaded for every JS file and project\n	\"default_libs\": [\"ecma5\"],\n\n	// Syntax scopes where Tern completion should work.\n	// Used for augumented JS syntxes where TernJS could possibly work\n	\"syntax_scopes\": \"source.js\"\n}\n",
+			"file": "/Users/lajlev/Library/Application Support/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 408,
+				"line_ending": "Unix",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sbt",
+				"SBT: Kill SBT"
+			]
+		],
+		"width": 543.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lajlev/web/test/meteor/simple-todos"
+	],
+	"file_history":
+	[
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/partials/_media_list.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/guides/list.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/public/javascripts/plugins/iscroll-lte-ie7.js",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/LinkHelper.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/_topmenu/_items.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/guides/_view/_stepImageText.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/util/OneTimers/images-less-than-300px.2.txt",
+		"/Users/lajlev/web/device-guides/device-guides/conf/aws-s3/index.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/vendor/bootstrap/media.less",
+		"/Users/lajlev/web/device-guides/device-guides/public/javascripts/app/main-edit.js",
+		"/Users/lajlev/web/device-guides/device-guides/conf/messages",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/layout/_main.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/devices/search.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/public/javascripts/app/pages/frontpage.js",
+		"/Users/lajlev/web/device-guides/device-guides/public/javascripts/app/pages/devicesSearch.js",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/devices/_list.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/frontpage.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/public/javascripts/app/pages/_shareGuideLink.js",
+		"/Users/lajlev/web/device-guides/device-guides/app/models/ManualDomain.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/main.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/util/TextSearchEngine.scala",
+		"/Users/lajlev/web/device-guides/device-guides/conf/securesocial.conf",
+		"/Users/lajlev/web/device-guides/device-guides/conf/Dockerfile",
+		"/Users/lajlev/web/device-guides/device-guides/conf/deviceatlas_ehcache.xml",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/pages/devices.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/partials/_select_filter.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/pages/frontpage.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/bootstrap/type.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/partials/_aside.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/util/arrow.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/layouts/main.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/bootstrap/variables.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/vendor/bootstrap/navs.less",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/vodacom.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/javascripts/app/main.js",
+		"/Users/lajlev/web/device-guides/device-guides/public/javascripts/vendor/detectizr-2.0.js",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/bootstrap/breadcrumbs.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/partials/_input_search.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/partials/_searchInput",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/bootstrap/bootstrap.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/layout/navbar.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/vendor/bootstrap/mixins.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/util/myMixins.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/bootstrap/navbar.less",
+		"/Users/lajlev/Desktop/ht.framer/app.coffee",
+		"/Users/lajlev/web/device-guides/device-guides/public/javascripts/app/helpers/manualsView.js",
+		"/Users/lajlev/web/device-guides/device-guides/public/javascripts/app/pages/guidesView.js",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/pages/guide.less",
+		"/Users/lajlev/web/device-guides/device-guides/conf/application.conf",
+		"/Users/lajlev/.bash_profile",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/manuals/view.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/manuals/_scrollContainer.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/guides/view.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/guides/_view/_userManualPin.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/models/GuideDomain.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/controllers/ManualController.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/main_admin.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/controllers/GuidesController.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/Global.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/pages/manual.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/layout/admin.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/admin/operators/show.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/admin/layouts/main.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/admin/operators/editForm.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/telia.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/telia_iframe.css",
+		"/Users/lajlev/web/device-guides/device-guides/conf/dg-admin-prod.conf",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/admin/operators/listDevices.scala.html",
+		"/Users/lajlev/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/devices/show.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/callme.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/callme_iframe.css",
+		"/Users/lajlev/web/device-guides/.gitignore",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/demo.css",
+		"/Users/lajlev/web/device-guides/device-guides/conf/routes",
+		"/Users/lajlev/Desktop/test.txt",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/guides/_searchList.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/_.sublime-project",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/join.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/glo.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/gamma_iframe.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/gamma.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/etisalat.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/emt.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/econet.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/dtac.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/digicel.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/airtel.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/3.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/tmobile.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/tele2se_iframe.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/tele2se.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/tele2no_iframe.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/tele2no.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/robi.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/mtn.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/morpho.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/maxis.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/mascom.css",
+		"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators/lebara.css",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/layouts/mainBlank.scala.html",
+		"/usr/local/bin/sbt",
+		"/Users/lajlev/web/device-guides/device-guides/conf/messages.nb",
+		"/Users/lajlev/web/device-guides/device-guides/conf/messages.fr",
+		"/Users/lajlev/web/device-guides/device-guides/conf/messages.es",
+		"/Users/lajlev/web/device-guides/device-guides/conf/messages.de",
+		"/Users/lajlev/web/device-guides/device-guides/conf/messages.da",
+		"/etc/hosts",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/admin/operators/createForm.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/layout/guides.less",
+		"/Users/lajlev/web/device-guides/device-guides/project/Build.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/exOperatorNotFound.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/layouts/_mainFootAssetsLoaderScripts.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/guides/_list.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/controllers/admin/OperatorsController.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/bootstrap/forms.less",
+		"/Users/lajlev/.netrc",
+		"/Users/lajlev/Desktop/index.js",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/operator/opera.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/models/OperatorDomain.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/layouts/_ga.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/vendor/bootstrap/layouts.less",
+		"/Users/lajlev/web/device-guides/device-guides/conf/play.plugins",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/main_airtel.less",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/helper/customFieldConstructor.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/views/admin/operators/list.scala.html",
+		"/Users/lajlev/web/device-guides/device-guides/app/models/AssetDomain.scala",
+		"/Users/lajlev/web/device-guides/device-guides/app/assets/less/main_robi.less"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			"",
+			"/Users/lajlev/web/device-guides/device-guides/app/assets/less",
+			"",
+			"/Users/lajlev/web/device-guides/device-guides/public/javascripts",
+			"",
+			"/Users/lajlev/web/device-guides/device-guides/public/stylesheets/operators",
+			"",
+			"/Users/lajlev/web/device-guides/device-guides/app/views",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"valign-wrapper\"",
+			"subtle",
+			"gridColumns",
+			"#devices",
+			"#devicesSearchMakesAlternative",
+			"custom-select",
+			"input-search",
+			".select-custom",
+			".custom-select",
+			"select",
+			"rad",
+			"radius",
+			"border",
+			"pill",
+			"plug",
+			"#pageFrontpage",
+			"\"pageFrontpage",
+			".page-heading",
+			"page-heading",
+			"class=\"searchBar\"",
+			"#pageFrontpage",
+			"id=\"guidesSearchQuery\"",
+			"id=\"featuredGuides\"",
+			".navbar-inner",
+			".reset-filter",
+			"filter",
+			".vertical-gradient",
+			"navbar2",
+			"nav",
+			"progid",
+			"#devicesSearchResult",
+			"deviceLogo",
+			"#devices",
+			"#devices-wrapper",
+			"lead",
+			"id=\"devicesSearchMakes\"",
+			"data-device-id",
+			".navbar1",
+			".stepImageText",
+			".stepTitle",
+			".stepDescription",
+			"stepDescription",
+			"truncated",
+			".truncated",
+			".trimmed",
+			"[class*=\"stepImage\"]",
+			"color: #000000;\ntext-shadow: 0 1px #ffffff;\nwhite-space: nowrap;",
+			"Expandable placeholders",
+			"@views",
+			"Expandable placeholders",
+			"Expandable placeholders ",
+			".scrollContainer",
+			"#pageManualsView",
+			"DATABASE_USERNAME",
+			"${DATABASE_USERNAME}",
+			"Edit operator",
+			"Device guides live",
+			"number",
+			" Enable additional devices",
+			".spinner",
+			".sinner",
+			"alert",
+			"val",
+			".click",
+			"//$.",
+			"ajax",
+			"$.post",
+			"shareLink",
+			"GuidesController",
+			"id=\"topmenuHelp\"",
+			"sms",
+			".nav-pills > .active > a {",
+			".nav-pills > .active > a",
+			"a.thumbnail:hover",
+			"a.thumbnail:hover{",
+			"a.thumbnail:hover {",
+			"pageManualsViewZoom",
+			"class=\"stepImageText\"",
+			"updateDeviceSearchResults",
+			"stepImage",
+			"class*=\"stepImage\"",
+			"class*=\"stepImage\"]",
+			"stepImageText",
+			".stepImageText",
+			"@Assets.at",
+			"@com.ee.assets.controllers.routes.Assets",
+			"com.ee.assets.controllers.Assets.at",
+			"help",
+			"availableStyles",
+			"locale",
+			"availableStyles",
+			"      \"",
+			"Required",
+			"_infos",
+			"@inputText",
+			"match",
+			".media-list",
+			"inIf",
+			"def inIf",
+			"trial",
+			"spinner",
+			"trial",
+			"devicesSearchResult",
+			"#devicesSearchResult",
+			"devicesSearchResult",
+			"bash",
+			"#devicesSearchMakes",
+			"id=\"devicesSearchMakes\"",
+			"class=\"nav nav-pills\"",
+			"height: 34px;",
+			"#devicesExpandMakes",
+			"trial",
+			"#devicesSearchMakes",
+			"#pageGuidesAdd",
+			"\"pageGuidesAdd",
+			"device",
+			"devi",
+			"id=\"pageGuidesAdd\"",
+			"for=\"guideTypeId\"",
+			"class=\"help-block\"",
+			"selectornote",
+			"name=\"toDeviceId",
+			"toDeviceId",
+			" Guides available on this ",
+			"edit-tags-categories",
+			".guideFooter",
+			"margin-left: 20px;",
+			"/* margin-left: 20px; */"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".nav-pills > .active > a,\n.nav-pills > .active > a:hover {",
+			"@routes.Assets.at",
+			"@Assets"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "simple-todos.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "simple-todos.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 24.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/lajlev/Library/Application Support/Sublime Text 3/Packages/TernJS/TernJS.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sbt":
+	{
+		"height": 128.0
+	},
+	"output.sbt_error":
+	{
+		"height": 0.0
+	},
+	"project": "_.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"media",
+				"app/assets/less/partials/_media_list.less"
+			],
+			[
+				"fron",
+				"app/views/frontpage.scala.html"
+			],
+			[
+				"front",
+				"app/views/frontpage.scala.html"
+			],
+			[
+				"_main",
+				"app/assets/less/layout/_main.less"
+			],
+			[
+				"sear",
+				"app/views/devices/search.scala.html"
+			],
+			[
+				"va",
+				"app/assets/less/bootstrap/variables.less"
+			],
+			[
+				"manu",
+				"app/models/ManualDomain.scala"
+			],
+			[
+				"guid",
+				"app/models/GuideDomain.scala"
+			],
+			[
+				"appl",
+				"conf/application.conf"
+			],
+			[
+				"app",
+				"conf/application.conf"
+			],
+			[
+				"lay",
+				"app/views/layouts/main.scala.html"
+			],
+			[
+				"_sha",
+				"public/javascripts/app/pages/_shareGuideLink.js"
+			],
+			[
+				"rou",
+				"conf/routes"
+			],
+			[
+				"mes",
+				"conf/messages"
+			],
+			[
+				"rout",
+				"conf/routes"
+			],
+			[
+				"op",
+				"app/controllers/admin/OperatorsController.scala"
+			],
+			[
+				"layou",
+				"app/views/layouts/main.scala.html"
+			],
+			[
+				"web",
+				"app/controllers/WebContext.scala"
+			],
+			[
+				"main",
+				"app/assets/stylesheets/_main.less"
+			],
+			[
+				"build",
+				"project/build.properties"
+			],
+			[
+				"buil",
+				"project/build.properties"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 491.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

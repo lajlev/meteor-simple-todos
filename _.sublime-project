@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+  // add this! ternjs object
+  "ternjs": {
+    "libs": ["browser", "underscore", "jquery"],
+    "plugins": {
+      "meteor": {}
+    }
+  }
+}
